@@ -20,21 +20,19 @@
 		b'' 8 e'' e'' e'' 4. ~  |
 		e'' 4. r  |
 %% 5
-		a'' 8 e'' e'' e'' 4. ~  |
+		c''' 8 e'' e'' e'' 4. ~  |
 		e'' 4. r8 e'' e''  |
-		g'' 2. (
-		% warning: overlong bar truncated here |
+		g'' 2. (  |
 		fis'' 2. )  |
 		e'' 2.  |
 %% 10
 		R2.  |
 		b'' 8 e'' e'' e'' 4. ~  |
 		e'' 4. r  |
-		a'' 8 e'' e'' e'' 4. ~  |
+		c''' 8 e'' e'' e'' 4. ~  |
 		e'' 4. r8 e'' e''  |
 %% 15
-		g'' 2. (
-		% warning: overlong bar truncated here |
+		g'' 2. (  |
 		a'' 2. )  |
 		b'' 2.  |
 		R2.  |
