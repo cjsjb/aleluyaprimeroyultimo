@@ -5,6 +5,7 @@
 \header {
 	title = "Aleluya"
 	subtitle = "Yo soy el primero y el último"
+	instrument = "Barítono"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
@@ -29,12 +30,7 @@ globalTempo = {
 		\override Score.NoteColumn #'force-hshift = #1.0
 
 		\include "aleluyaenmi-acordes.inc"
-		\new StaffGroup <<
-			\include "aleluyaenmi-soprano.inc"
-			\include "aleluyaenmi-mezzo.inc"
-			\include "aleluyaenmi-tenor.inc"
-			\include "aleluyaenmi-baritono.inc"
-		>>
+		\include "aleluyaenmi-baritono.inc"
 
 	>>
 
