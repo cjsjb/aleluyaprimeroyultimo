@@ -4,7 +4,7 @@
 #(ly:set-option 'point-and-click #f)
 \header {
 	title = "Aleluya"
-	subtitle = "Yo soy el primero y el último"
+	subtitle = "El primero y el último"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
