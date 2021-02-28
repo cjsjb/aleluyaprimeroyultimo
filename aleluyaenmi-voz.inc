@@ -39,7 +39,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-voz" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-voz" {
 		A -- le -- lu -- ya,
 		a -- le -- lu -- ya,
 		a -- le -- lu __ ya.
