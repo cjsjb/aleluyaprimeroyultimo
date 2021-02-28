@@ -14,7 +14,7 @@
 		\time 6/8
 		\clef "treble"
 		\set Staff.printKeyCancellation = ##t
-		\key e \major
+		\key a \minor
 
 		R2.*2  |
 		gis' 8 e' e' e' 4. ~  |
