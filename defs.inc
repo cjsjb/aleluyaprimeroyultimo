@@ -6,3 +6,5 @@ partitura_tiempos = {
         \time 6/8
         \tempo 4 = 90
 }
+
+partitura_archivo = "aleluyaenmi"
